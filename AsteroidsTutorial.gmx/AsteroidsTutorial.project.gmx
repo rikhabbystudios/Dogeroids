@@ -12,6 +12,7 @@
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_nyanroid</sprite>
     <sprite>sprites\spr_nyaneroid_sm</sprite>
+    <sprite>sprites\spr_poptart</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -20,6 +21,7 @@
     <object>objects\obj_bullet</object>
     <object>objects\obj_nyanroid</object>
     <object>objects\obj_nyaneroid_sm</object>
+    <object>objects\obj_poptart</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_game</room>
