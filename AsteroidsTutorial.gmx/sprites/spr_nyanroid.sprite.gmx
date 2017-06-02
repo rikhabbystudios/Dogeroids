@@ -8,20 +8,18 @@
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
   <bbox_left>0</bbox_left>
-  <bbox_right>63</bbox_right>
-  <bbox_top>11</bbox_top>
-  <bbox_bottom>52</bbox_bottom>
+  <bbox_right>127</bbox_right>
+  <bbox_top>22</bbox_top>
+  <bbox_bottom>105</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>64</width>
-  <height>64</height>
+  <width>128</width>
+  <height>128</height>
   <frames>
     <frame index="0">images\spr_nyanroid_0.png</frame>
-    <frame index="1">images\spr_nyanroid_1.png</frame>
-    <frame index="2">images\spr_nyanroid_2.png</frame>
   </frames>
 </sprite>
