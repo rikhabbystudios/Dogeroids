@@ -8,7 +8,7 @@
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
-  <colour>12632256</colour>
+  <colour>0</colour>
   <showcolour>-1</showcolour>
   <code></code>
   <enableViews>0</enableViews>
@@ -50,7 +50,43 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
-  <instances/>
+  <instances>
+    <instance objName="obj_bullet" x="320" y="128" name="inst_B910E4E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bullet" x="320" y="128" name="inst_0612FC70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bullet" x="384" y="128" name="inst_ABEF5A9E" locked="0" code="" scaleX="8" scaleY="8" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bullet" x="448" y="128" name="inst_128B3137" locked="0" code="" scaleX="8" scaleY="8" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="544" y="96" name="inst_D713CD3D" locked="0" code="" scaleX="1.25" scaleY="1.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyaneroid_sm" x="736" y="96" name="inst_92304535" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyaneroid_sm" x="736" y="160" name="inst_F617DCF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_poptart" x="832" y="64" name="inst_28D446EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_poptart" x="832" y="96" name="inst_21DE8CEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_poptart" x="832" y="128" name="inst_AFE178B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_poptart" x="832" y="160" name="inst_5B9C2C59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bullet" x="384" y="128" name="inst_6B0F2285" locked="0" code="" scaleX="8" scaleY="8" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bullet" x="448" y="128" name="inst_977E5476" locked="0" code="" scaleX="8" scaleY="8" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="544" y="96" name="inst_22F4D06D" locked="0" code="" scaleX="1.25" scaleY="1.25" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyaneroid_sm" x="736" y="96" name="inst_C020D4FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyaneroid_sm" x="736" y="160" name="inst_C4EABC36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_poptart" x="832" y="160" name="inst_E325888B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_poptart" x="832" y="128" name="inst_37861C1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_poptart" x="832" y="96" name="inst_38590A98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_poptart" x="832" y="64" name="inst_917A4C53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_player" x="768" y="608" name="inst_51C74863" locked="0" code="" scaleX="4.6875" scaleY="4.22222232818604" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="64" y="480" name="inst_D58FFD12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="96" y="640" name="inst_4B368E2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="384" y="480" name="inst_8C7EDAFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="256" y="512" name="inst_E3142BC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="480" y="640" name="inst_4874FBC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="352" y="608" name="inst_849C6B9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="288" y="640" name="inst_4C8795BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="192" y="576" name="inst_4A775B2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="192" y="480" name="inst_717122E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="480" y="544" name="inst_527CDAD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="576" y="576" name="inst_6B517D23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_nyanroid" x="544" y="480" name="inst_F1D15C1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_title" x="32" y="224" name="inst_B877C161" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_player_title" x="96" y="128" name="inst_931C3EA0" locked="0" code="" scaleX="5.3125" scaleY="5.07407426834106" colour="4294967295" rotation="0"/>
+  </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
