@@ -13,19 +13,27 @@
     <sprite>sprites\spr_nyanroid</sprite>
     <sprite>sprites\spr_nyaneroid_sm</sprite>
     <sprite>sprites\spr_poptart</sprite>
+    <sprite>sprites\spr_title</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
+    <object>objects\obj_score</object>
     <object>objects\obj_player</object>
+    <object>objects\obj_player_title</object>
     <object>objects\obj_bullet</object>
+    <object>objects\obj_bullet_title</object>
     <object>objects\obj_nyanroid</object>
+    <object>objects\obj_nyanroid_title</object>
     <object>objects\obj_nyaneroid_sm</object>
+    <object>objects\obj_nyanroid_sm_title</object>
     <object>objects\obj_poptart</object>
+    <object>objects\obj_poptart_title</object>
+    <object>objects\obj_title</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_game</room>
     <room>rooms\rm_title</room>
+    <room>rooms\rm_game</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
