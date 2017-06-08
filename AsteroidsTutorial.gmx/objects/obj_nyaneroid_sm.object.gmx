@@ -82,6 +82,9 @@ speed = 0.5 + random(2);
             <string>instance_create(x,y,obj_poptart);
 
 global.points += 75;
+
+audio_play_sound(snd_explode,0,0);
+audio_play_sound(snd_meow,0,0);
 </string>
           </argument>
         </arguments>
