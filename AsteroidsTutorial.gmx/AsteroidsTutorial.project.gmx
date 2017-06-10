@@ -22,14 +22,15 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_score</object>
+    <object>objects\obj_spawner</object>
     <object>objects\obj_player</object>
     <object>objects\obj_player_title</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_bullet_title</object>
-    <object>objects\obj_nyanroid</object>
-    <object>objects\obj_nyanroid_title</object>
+    <object>objects\obj_nyaneroid</object>
+    <object>objects\obj_nyaneroid_title</object>
     <object>objects\obj_nyaneroid_sm</object>
-    <object>objects\obj_nyanroid_sm_title</object>
+    <object>objects\obj_nyaneroid_sm_title</object>
     <object>objects\obj_poptart</object>
     <object>objects\obj_poptart_title</object>
     <object>objects\obj_title</object>
