@@ -1,4 +1,9 @@
 Ejuu, I love you <3
 I love you too <3
 
+<<<<<<< HEAD
 Rikhav's test 6-11-17
+=======
+
+test 1 2 3
+>>>>>>> 4086ae4703e96808498335c867c8d8c46099a20b
