@@ -17,6 +17,7 @@
     <sprite>sprites\spr_nyaneroid_sm</sprite>
     <sprite>sprites\spr_poptart</sprite>
     <sprite>sprites\spr_title</sprite>
+    <sprite>sprites\spr_deadplayer</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -34,6 +35,7 @@
     <object>objects\obj_poptart</object>
     <object>objects\obj_poptart_title</object>
     <object>objects\obj_title</object>
+    <object>objects\obj_deadplayer</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
