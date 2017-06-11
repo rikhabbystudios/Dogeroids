@@ -17,9 +17,14 @@
     <sprite>sprites\spr_nyaneroid_sm</sprite>
     <sprite>sprites\spr_poptart</sprite>
     <sprite>sprites\spr_title</sprite>
+    <sprite>sprites\spr_deadplayer</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\fnt_small</font>
+    <font>fonts\fnt_large</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_score</object>
     <object>objects\obj_spawner</object>
@@ -34,6 +39,8 @@
     <object>objects\obj_poptart</object>
     <object>objects\obj_poptart_title</object>
     <object>objects\obj_title</object>
+    <object>objects\obj_deadplayer</object>
+    <object>objects\obj_gameover</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
