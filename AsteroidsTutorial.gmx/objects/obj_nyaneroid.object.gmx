@@ -126,11 +126,24 @@ audio_play_sound(snd_meow,0,0);
     o = instance_create(x,y,obj_deadplayer);
     o.angle = 0 + randomangle;
     o = instance_create(x,y,obj_deadplayer);
-    o.angle = 120 + randomangle;
+    o.angle = 90 + randomangle;
     o = instance_create(x,y,obj_deadplayer);
-    o.angle = 240 + randomangle;
+    o.angle = 180 + randomangle;
+     o = instance_create(x,y,obj_deadplayer);
+    o.angle = 270 + randomangle;
+    o = instance_create(x,y,obj_deaddoge);
+    o.angle = 0 + randomangle;
     
     with (obj_deadplayer)
+    {
+    
+        direction = angle;
+        image_angle = angle;
+        speed = 3;
+    
+    }
+    
+        with (obj_deaddoge)
     {
     
         direction = angle;
