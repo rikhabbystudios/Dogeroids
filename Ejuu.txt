@@ -19,4 +19,9 @@ test 1 2 3
 Rikhav test 6-11-17
 
 as well)
+<<<<<<< HEAD
+
+Actually no but that's okay :D
+=======
 >>>>>>> 5134531546f1031011fd9d75a3368319d8fd6e0c
+>>>>>>> d540c8e0426dfdce6052add0e80ed816c01ea431
