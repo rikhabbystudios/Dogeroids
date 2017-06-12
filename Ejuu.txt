@@ -2,16 +2,26 @@ Ejuu, I love you <3
 I love you too <3
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+Rikhav's test 6-11-17
+=======
 Abby's test: blep blep ilu
+>>>>>>> 5134531546f1031011fd9d75a3368319d8fd6e0c
 =======
 
 test 1 2 3
 >>>>>>> 4086ae4703e96808498335c867c8d8c46099a20b
+<<<<<<< HEAD
+=======
 
 (supposed to include
 
 Rikhav test 6-11-17
 
 as well)
+<<<<<<< HEAD
 
 Actually no but that's okay :D
+=======
+>>>>>>> 5134531546f1031011fd9d75a3368319d8fd6e0c
+>>>>>>> d540c8e0426dfdce6052add0e80ed816c01ea431
