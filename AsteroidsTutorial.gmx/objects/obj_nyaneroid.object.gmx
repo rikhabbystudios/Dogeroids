@@ -140,6 +140,8 @@ audio_play_sound(snd_meow,0,0);
     }
     
     audio_play_sound(snd_explode,10,0);
+    audio_play_sound(snd_deaddoge,10,0);
+    
     
     if (global.life &gt; 0)
     {

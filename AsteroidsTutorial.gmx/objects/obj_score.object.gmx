@@ -27,6 +27,7 @@
             <kind>1</kind>
             <string>global.points = 0;
 global.life = 3;
+audio_play_sound(snd_background,20,0);
 </string>
           </argument>
         </arguments>
@@ -62,6 +63,26 @@ draw_text(64,64,"Lives: " + string(global.life));
       </action>
     </event>
     <event eventtype="9" enumb="82">
+      <action>
+        <libid>1</libid>
+        <id>212</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_end_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>snd_background</sound>
+          </argument>
+        </arguments>
+      </action>
       <action>
         <libid>1</libid>
         <id>223</id>
