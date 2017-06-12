@@ -12,6 +12,7 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_player_i</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_nyanroid</sprite>
     <sprite>sprites\spr_nyaneroid_sm</sprite>
