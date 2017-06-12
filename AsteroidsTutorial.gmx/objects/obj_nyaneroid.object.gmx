@@ -132,7 +132,7 @@ audio_play_sound(snd_meow,0,0);
      o = instance_create(x,y,obj_deadplayer);
     o.angle = 270 + randomangle;
     o = instance_create(x,y,obj_deaddoge);
-    o.angle = 0 + randomangle;
+    o.angle = 25 + randomangle;
     
     with (obj_deadplayer)
     {
