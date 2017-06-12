@@ -20,6 +20,7 @@
     <sprite>sprites\spr_poptart</sprite>
     <sprite>sprites\spr_title</sprite>
     <sprite>sprites\spr_deadplayer</sprite>
+    <sprite>sprites\spr_deaddoge</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -43,6 +44,7 @@
     <object>objects\obj_title</object>
     <object>objects\obj_deadplayer</object>
     <object>objects\obj_gameover</object>
+    <object>objects\obj_deaddoge</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
