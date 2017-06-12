@@ -9,15 +9,18 @@
     <sound>sound\snd_explode</sound>
     <sound>sound\snd_meow</sound>
     <sound>sound\snd_shoot</sound>
+    <sound>sound\snd_deaddoge</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_player_i</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_nyanroid</sprite>
     <sprite>sprites\spr_nyaneroid_sm</sprite>
     <sprite>sprites\spr_poptart</sprite>
     <sprite>sprites\spr_title</sprite>
     <sprite>sprites\spr_deadplayer</sprite>
+    <sprite>sprites\spr_deaddoge</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -41,6 +44,7 @@
     <object>objects\obj_title</object>
     <object>objects\obj_deadplayer</object>
     <object>objects\obj_gameover</object>
+    <object>objects\obj_deaddoge</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
