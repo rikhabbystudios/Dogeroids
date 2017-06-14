@@ -9,6 +9,9 @@
     <sound>sound\snd_explode</sound>
     <sound>sound\snd_meow</sound>
     <sound>sound\snd_shoot</sound>
+    <sound>sound\snd_deaddoge</sound>
+    <sound>sound\snd_title</sound>
+    <sound>sound\snd_credits</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
@@ -20,6 +23,7 @@
     <sprite>sprites\spr_title</sprite>
     <sprite>sprites\spr_deadplayer</sprite>
     <sprite>sprites\spr_deaddoge</sprite>
+    <sprite>sprites\sprite9</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -44,10 +48,14 @@
     <object>objects\obj_deadplayer</object>
     <object>objects\obj_gameover</object>
     <object>objects\obj_deaddoge</object>
+    <object>objects\obj_cred_title</object>
+    <object>objects\obj_credits</object>
+    <object>objects\obj_title_recall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
     <room>rooms\rm_game</room>
+    <room>rooms\rm_credits</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

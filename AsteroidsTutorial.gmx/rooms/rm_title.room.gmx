@@ -52,6 +52,7 @@
   </views>
   <instances>
     <instance objName="obj_title" x="0" y="256" name="inst_B877C161" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_cred_title" x="32" y="32" name="inst_25EF336C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_player_title" x="96" y="128" name="inst_931C3EA0" locked="0" code="" scaleX="5.3125" scaleY="5.07407426834106" colour="4294967295" rotation="0"/>
     <instance objName="obj_player_title" x="832" y="608" name="inst_0D754B50" locked="0" code="" scaleX="5.3125" scaleY="5.07407426834106" colour="4294967295" rotation="0"/>
     <instance objName="obj_bullet_title" x="256" y="128" name="inst_A5D4B601" locked="0" code="" scaleX="-8" scaleY="9" colour="4294967295" rotation="0"/>
@@ -82,6 +83,7 @@
     <instance objName="obj_nyaneroid_title" x="448" y="672" name="inst_27D714EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_nyaneroid_title" x="192" y="544" name="inst_808B9EE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_nyaneroid_title" x="224" y="640" name="inst_03514491" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_title_recall" x="800" y="256" name="inst_E4536D28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
